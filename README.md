@@ -10,12 +10,14 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
   # Clone Repository
   git clone https://github.com/lbtcio/lbtc-token-explorer.git
 
+
   # Go into the repository
   cd lbtc-token-explorer
 
 
   # Install dependencies
   npm install
+
 
   # Compiles and hot-reloads for development
   npm run serve
