@@ -1,5 +1,6 @@
 {
   
+  
   "name": "token-explorer-testnet",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  
   
   "dependencies": {
     "axios": "^0.18.0",
@@ -25,6 +27,7 @@
   },
   
   
+  
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-plugin-eslint": "^3.2.0",
@@ -38,16 +41,19 @@
   },
   
   
+  
   "eslintConfig": {
     "root": true,
     "env": {
       "node": true
     },
     
+    
     "extends": [
       "plugin:vue/essential",
       "eslint:recommended"
     ],
+    
     
     
     "rules": {},
@@ -57,6 +63,7 @@
   },
   
   
+  
   "postcss": {
     "plugins": {
       "autoprefixer": {}
@@ -64,10 +71,12 @@
   },
   
   
+  
   "browserslist": [
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
   ]
+  
   
 }
