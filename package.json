@@ -63,14 +63,11 @@
   },
   
   
-  
   "postcss": {
     "plugins": {
       "autoprefixer": {}
     }
   },
-  
-  
   
   "browserslist": [
     "> 1%",
