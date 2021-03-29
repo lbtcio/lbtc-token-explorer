@@ -1,11 +1,8 @@
 module.exports = {
   
-  
   assetsDir: undefined,
-  
-  
+ 
   baseUrl: undefined,
-  
   
   outputDir: undefined,
   
