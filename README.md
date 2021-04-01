@@ -31,4 +31,5 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
   
   
 ```
+
 Finally, copy the files in the `dist` folder to your own server.
