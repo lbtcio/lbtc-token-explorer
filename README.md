@@ -1,7 +1,9 @@
 # lbtc-token-explorer-testnet
 
 
+
 ##   Project setup
+
 
 
 
@@ -10,11 +12,10 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 
 
-
-
 ```
   # Clone Repository
   git clone https://github.com/lbtcio/lbtc-token-explorer.git
+
 
 
   # Go into the repository
